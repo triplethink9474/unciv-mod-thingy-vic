@@ -26,7 +26,7 @@
 		"attackSound": "shot"
 	}
 	{
-			"name": "Ship of the Line",
+		"name": "Ship of the Line",
 		"unitType": "Ranged Water",
 		"replaces": "Frigate",
 		"uniqueTo": "England",
