@@ -12,4 +12,18 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	}
+			"name": "Ship of the Line",
+		"unitType": "Ranged Water",
+		"replaces": "Frigate",
+		"uniqueTo": "England",
+		"movement": 5,
+		"strength": 37,
+		"rangedStrength": 37,
+		"cost": 200,
+		"uniques": ["[+1] Sight"],
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Steam power",
+		"upgradesTo": "Ironclad",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
 ]
