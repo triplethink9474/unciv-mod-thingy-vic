@@ -21,6 +21,7 @@
 		"strength": 37,
 		"rangedStrength": 37,
 		"cost": 200,
+		 "Can carry [2] [Redcoat] units"
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam power",
 		"upgradesTo": "Ironclad",
