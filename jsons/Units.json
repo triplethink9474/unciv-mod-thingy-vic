@@ -21,7 +21,6 @@
 		"strength": 37,
 		"rangedStrength": 37,
 		"cost": 200,
-		"uniques": ["[+1] Sight"],
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Steam power",
 		"upgradesTo": "Ironclad",
