@@ -12,6 +12,7 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	}
+	{
 			"name": "Ship of the Line",
 		"unitType": "Ranged Water",
 		"replaces": "Frigate",
@@ -26,4 +27,5 @@
 		"upgradesTo": "Ironclad",
 		"hurryCostModifier": 20,
 		"attackSound": "shipCannonVolley"
-]
+	}
+		]
