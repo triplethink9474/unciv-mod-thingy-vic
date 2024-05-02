@@ -5,11 +5,24 @@
 		"replaces": "Musketman",
 		"uniqueTo": "England",
 		"movement": 3,
-		"strength": 35,
+		"strength": 30,
 		"cost": 200,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
+		"upgradesTo": "Industrial era Redcoat",
 		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	}
+	}
+		"name": "Industrial era Redcoat",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "England",
+		"movement": 3,
+		"strength": 37,
+		"cost": 230,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Replaceable Parts",
 		"attackSound": "shot"
 	}
 	{
