@@ -12,7 +12,7 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	}
-	}
+	{
 		"name": "Industrial era Redcoat",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
